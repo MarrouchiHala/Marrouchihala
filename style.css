@@ -1,0 +1,24 @@
+.grand-texte {
+    font-size: 30px;
+	font-style: italic;
+	text-align: left;
+}
+h1 {
+    color: blue;
+	text-align: center;
+	background: linear-gradient(90deg, #8360c3, #2ebf91);
+	background-position :center ;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+p {
+    color: gray;
+	font-size: 12px;
+	font-family:Arial Black;
+	text-align: justify;
+	font-weight: thin;
+	text-decoration:none;
+	background-color: white;
+	
+}
